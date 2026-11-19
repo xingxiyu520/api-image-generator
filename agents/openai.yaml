@@ -1,0 +1,4 @@
+interface:
+  display_name: "API Image Generator"
+  short_description: "Generate, edit, and batch-process images through a configured API."
+  default_prompt: "Use $api-image-generator to generate or edit images with my configured image API."
